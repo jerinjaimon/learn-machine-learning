@@ -36,6 +36,12 @@ show(p)
 ### 5. Scikit Learn
 Machine learning library. [Ref](https://scikit-learn.org/stable/)
 
+#### Model Persistence
+To save a model after training: [Ref](https://scikit-learn.org/stable/modules/model_persistence.html)  
+Sample notebook [here](https://github.com/aneagoie/ML-Notes/blob/master/iris.ipynb)
+
+### 6. ImageAI
+Tensorflow based Open Source Python Library for DL & Computer Vision. [Ref](https://github.com/OlafenwaMoses/ImageAI)
 
 ## References
 * [ML Data Science notebook](https://github.com/aneagoie/ML-Notes/blob/master/soccer.ipynb)
